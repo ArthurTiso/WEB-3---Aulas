@@ -1,4 +1,4 @@
-# WEB-3 - Aulas
+# WEB 3 - Aulas
 Repositório para guardar arquivos e códigos relativos à aula de Desenvolvimento Web 3, utilizando as tecnologias React e Next.
 IFSP - 5° Semestre
 
